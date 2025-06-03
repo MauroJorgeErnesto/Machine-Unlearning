@@ -1,4 +1,6 @@
 Machine Unlearning em Modelos Supervisionados no Contexto da LGPD
+⚠️ Projeto em desenvolvimento – este repositório está sendo atualizado continuamente conforme o progresso da pesquisa.
+
 Este projeto explora técnicas de machine unlearning com foco na conformidade com a LGPD (Lei Geral de Proteção de Dados), ética em IA e eficiência computacional. A proposta busca garantir o direito ao esquecimento, permitindo a remoção de dados específicos de modelos treinados sem a necessidade de retrain completo.
 
 🔍 Objetivo
@@ -36,3 +38,5 @@ Implementação de unlearning sem retrain completo em modelos baseados em árvor
 Alinhamento com regulamentações de privacidade e princípios de IA ética
 
 Contribuição ativa em pesquisa aplicada com potencial de publicação científica
+
+📁 Este repositório será atualizado conforme o avanço da implementação, testes e documentação.
